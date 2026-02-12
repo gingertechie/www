@@ -248,21 +248,29 @@ async function downloadImage(url, destPath, retries = 3, redirectCount = 0) {
 }
 
 /**
- * Download images in parallel with rate limiting
+ * Download images sequentially with delay to avoid rate limiting
  */
 async function downloadImages(imageUrls, destDir) {
-  const PARALLEL_LIMIT = 5;
   const results = [];
+  const DELAY_MS = 2000; // 2 second delay between downloads
 
-  for (let i = 0; i < imageUrls.length; i += PARALLEL_LIMIT) {
-    const batch = imageUrls.slice(i, i + PARALLEL_LIMIT);
-    const batchResults = await Promise.allSettled(
-      batch.map(({ url, filename }) => {
-        const destPath = path.join(destDir, filename);
-        return downloadImage(url, destPath);
-      })
-    );
-    results.push(...batchResults);
+  for (let i = 0; i < imageUrls.length; i++) {
+    const { url, filename } = imageUrls[i];
+    const destPath = path.join(destDir, filename);
+
+    try {
+      await downloadImage(url, destPath);
+      results.push({ status: 'fulfilled' });
+      console.log(`    ✓ Downloaded ${filename}`);
+    } catch (error) {
+      results.push({ status: 'rejected', reason: error });
+      console.log(`    ✗ Failed ${filename}: ${error.message}`);
+    }
+
+    // Add delay between downloads (except after the last one)
+    if (i < imageUrls.length - 1) {
+      await new Promise(resolve => setTimeout(resolve, DELAY_MS));
+    }
   }
 
   return results;

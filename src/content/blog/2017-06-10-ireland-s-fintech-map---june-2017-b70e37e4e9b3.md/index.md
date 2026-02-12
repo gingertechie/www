@@ -15,6 +15,8 @@ Here’s a quick reminder of the criteria for being included:
 
 Some eagle-eyed readers have asked why banks aren’t included, as they meet the criteria. Good question. I guess that’s the difference between financial services and Fintech. And that difference, in my view, is attitude.
 
+![](./1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg)
+
 Don’t get me wrong, this isn’t about bashing banks. There are some really awesome changes happening behind the scenes in Irish banks, and other financial services companies too, for that matter. But if the sole purpose of a Fintech company is to improve the customer outcome through technology, I don’t think that the banks can be considered Fintech.
 
 Yet.
@@ -34,6 +36,8 @@ In this version we have some changes:
 I’ve also updated the logo for [Flender](http://www.flender.ie) (thanks [Oli](https://www.linkedin.com/in/olivercavanagh) for the heads-up) and for [LinkedFinance](http://www.linkedfinance.com).
 
 ---
+
+![](./1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg)
 
 Thank you to everyone who sent me corrections and additions for this version of the Fintech map. And huge thanks to everyone who helped to put Ireland’s Fintech Ecosystem on the global map – from US to Singapore, from Sweden to Australia.
 

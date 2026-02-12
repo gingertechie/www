@@ -10,6 +10,8 @@ In the tech world, we like t-shirts. They’re practical, unfussy and there’s 
 
 But enough about dress code, and onto the initial meeting between Fintech Ireland and Fintech Copenhagen. It was a somewhat informal affair (if you exclude the royal marching band — see [part 1](https://blog.gingertechie.com/gettin-hygge-with-it-82ec00d2b027#.mfcgr1284)). And the flag ceremony.
 
+![](./1*HXLGesn0u-tIjTcP_flqNA.jpeg)
+
 OMFG THERE ARE EVEN LITTLE ROPES FOR RAISING THE FLAGS!
 
 It turns out that Fintech entrepreneurs are hiding in plain sight, and this was certainly true for my host Kim Vindberg-Larsen. Apart from being a key member behind Copenhagen’s Fintech Innovation and Research group [CFIR](https://www.cfir.dk), Kim is the founder of [MeeWallet](http://meewallet.com) — a very innovative payment application, which also runs on an entirely new scheme. If you set up a new payments scheme, you can call yourself a disruptor.
@@ -19,6 +21,8 @@ I had recently organised a rapid networking event for the Fintech community in D
 ### Building a Brygge
 
 And so, on that sunny afternoon in Copenhagen, Kim and I hatched a plan to create an event that connected our local fintech people with each other.
+
+![](./1*qWfmI9G5up6HZMGMzxo4Cw.jpeg)
 
 “Fintech? Isn’t that about Finland?”
 
@@ -45,6 +49,8 @@ Follow @fintechbridge on Twitter for updates.
 Pitch competitions: [Tired or Expired](https://www.wired.com/2012/12/wired-tired-expired/)? You pitch to a bunch of suits who wouldn’t know innovation if it kicked them in their digital assets. No, we’re not doing that.
 
 For our #FintechBattle pitch competition we’ve got six companies under two years old. A five minute pitch each. But this time the judges are different. The judges are YOU.
+
+![](./1*rcNkvAm8sKqufmQynkPVaQ.jpeg)
 
 No, not you
 

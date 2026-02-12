@@ -1,0 +1,373 @@
+🚀 Medium to Astro Migration Script
+
+ℹ️  Found 27 files to migrate
+
+
+📝 Processing: 2016-02-17_What-is-Fintech-Ireland--ebcce3bde211.md
+  Title: What is Fintech Ireland?
+  Date: 2016-02-17
+  Slug: 2016-02-17-what-is-fintech-ireland
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-02-17-what-is-fintech-ireland/index.md
+  📥 Downloading 1 image(s)...
+    ✓ Downloaded 1*1Ekw82f_XAFsGsXFmaEbRw.jpeg
+  ✅ Downloaded 1 image(s)
+
+📝 Processing: 2016-02-18_Good-catch--thanks--There-s-at-least-one-more-that-shouldn-t-be-there--I-ll-be-evicting-them-soon--c14e5e108f77.md
+  Title: Good catch, thanks! There’s at least one more that shouldn’t be there, I’ll be evicting them soon!
+  Date: 2016-02-18
+  Slug: 2016-02-18-good-catch--thanks--there-s-at-least-one-more-that-shouldn-t-be-there--i-ll-be-evicting-them-soon
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-02-18-good-catch--thanks--there-s-at-least-one-more-that-shouldn-t-be-there--i-ll-be-evicting-them-soon/index.md
+
+📝 Processing: 2016-02-20_Fantastic--thanks--I-ll-make-sure-you-re-in-the-next-version--b2a2efe62da5.md
+  Title: Fantastic, thanks, I’ll make sure you’re in the next version!
+  Date: 2016-02-20
+  Slug: 2016-02-20-fantastic--thanks--i-ll-make-sure-you-re-in-the-next-version
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-02-20-fantastic--thanks--i-ll-make-sure-you-re-in-the-next-version/index.md
+
+📝 Processing: 2016-03-06_What-is-the-Irish-Fintech-Ecosystem--7b05bcbbcebf.md
+  Title: What is the Irish Fintech Ecosystem?
+  Date: 2016-03-06
+  Slug: 2016-03-06-what-is-the-irish-fintech-ecosystem
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-03-06-what-is-the-irish-fintech-ecosystem/index.md
+  📥 Downloading 2 image(s)...
+    ✓ Downloaded 1*GcFznowwd5JBQHQ9MkcXFA.png
+    ✓ Downloaded 1*Lqts6uyjTSKLffZUduR2CQ.png
+  ✅ Downloaded 2 image(s)
+
+📝 Processing: 2016-03-25_Irish-Fintech-Companies-v0-3-20805b44bdad.md
+  Title: Irish Fintech Companies v0.3
+  Date: 2016-03-25
+  Slug: 2016-03-25-irish-fintech-companies-v0-3-20805b44bdad.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-03-25-irish-fintech-companies-v0-3-20805b44bdad.md/index.md
+  📥 Downloading 1 image(s)...
+    ✓ Downloaded 1*o4zXKeRHg6_t_tAxrOTLPg.png
+  ✅ Downloaded 1 image(s)
+
+📝 Processing: 2016-03-31_Irish-Fintech---Funding-and-Supports-35a6325674ae.md
+  Title: Irish Fintech — Funding and Supports
+  Date: 2016-03-31
+  Slug: 2016-03-31-irish-fintech---funding-and-supports-35a6325674ae.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-03-31-irish-fintech---funding-and-supports-35a6325674ae.md/index.md
+  📥 Downloading 1 image(s)...
+    ✓ Downloaded 1*vG21VBmOdQmRC0z5T19Pag.png
+  ✅ Downloaded 1 image(s)
+
+📝 Processing: 2016-04-24_Financial-Services-Jobs-in-Ireland--Growth-or----784af046ac6b.md
+  Title: Financial Services Jobs in Ireland: Growth or …?
+  Date: 2016-04-24
+  Slug: 2016-04-24-financial-services-jobs-in-ireland--growth-or--
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-04-24-financial-services-jobs-in-ireland--growth-or--/index.md
+  📥 Downloading 5 image(s)...
+    ✓ Downloaded 1*EbMsXgEvR_SvzRL79zrcXA.jpeg
+    ✓ Downloaded 1*DlIwGA541ogLyWPjm8mFHg.jpeg
+    ✓ Downloaded 1*dsU2-o8TQFRJZyYwyk83Nw.jpeg
+    ✓ Downloaded 1*gF8NctiVdt6QXda5-yk0bg.jpeg
+    ✓ Downloaded 1*ZvW1IqSz0WfM5grUCzjqsQ.jpeg
+  ✅ Downloaded 5 image(s)
+
+📝 Processing: 2016-05-24_Irish-Fintech-Companies-v0-4-d66e103ba64a.md
+  Title: Irish Fintech Companies v0.4
+  Date: 2016-05-24
+  Slug: 2016-05-24-irish-fintech-companies-v0-4-d66e103ba64a.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-05-24-irish-fintech-companies-v0-4-d66e103ba64a.md/index.md
+  📥 Downloading 1 image(s)...
+    ✓ Downloaded 1*JDgSSi5ipCtgq6mKhl68Aw.jpeg
+  ✅ Downloaded 1 image(s)
+
+📝 Processing: 2016-06-19_Why-Build-a-Fintech-Ecosystem--ba181140efa3.md
+  Title: Why Build a Fintech Ecosystem?
+  Date: 2016-06-19
+  Slug: 2016-06-19-why-build-a-fintech-ecosystem
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-06-19-why-build-a-fintech-ecosystem/index.md
+  📥 Downloading 4 image(s)...
+    ✓ Downloaded 1*uNDYC3qXgg5UN9mAbkJubQ.png
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*IpprCtLGvyC7g7RoB_BxDA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*IpprCtLGvyC7g7RoB_BxDA.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*8QRxALYyRe4FnfFHFrILvA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*8QRxALYyRe4FnfFHFrILvA.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*wYowKminfPuQiXLnBcnL9A.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*wYowKminfPuQiXLnBcnL9A.jpeg
+  ⚠️  Failed to download 3 image(s):
+    - 1*uNDYC3qXgg5UN9mAbkJubQ.png: HTTP 429: https://cdn-images-1.medium.com/max/800/1*IpprCtLGvyC7g7RoB_BxDA.jpeg
+    - 1*IpprCtLGvyC7g7RoB_BxDA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*8QRxALYyRe4FnfFHFrILvA.jpeg
+    - 1*8QRxALYyRe4FnfFHFrILvA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*wYowKminfPuQiXLnBcnL9A.jpeg
+
+📝 Processing: 2016-07-10_Ireland-s-Fintech-Map-v0-5-34801b140cf9.md
+  Title: Ireland’s Fintech Map v0.5
+  Date: 2016-07-10
+  Slug: 2016-07-10-ireland-s-fintech-map-v0-5-34801b140cf9.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-07-10-ireland-s-fintech-map-v0-5-34801b140cf9.md/index.md
+  📥 Downloading 1 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*NWQniHv22h_9dLSkyscePQ.png: HTTP 429: https://cdn-images-1.medium.com/max/1200/1*NWQniHv22h_9dLSkyscePQ.png
+  ⚠️  Failed to download 1 image(s):
+    - 1*NWQniHv22h_9dLSkyscePQ.png: HTTP 429: https://cdn-images-1.medium.com/max/1200/1*NWQniHv22h_9dLSkyscePQ.png
+
+📝 Processing: 2016-08-26_Hi-Richard--755deed81d85.md
+  Title: Hi Richard.
+  Date: 2016-08-26
+  Slug: 2016-08-26-hi-richard
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-08-26-hi-richard/index.md
+
+📝 Processing: 2016-08-29_Sounds-good--be3abb81ba8c.md
+  Title: Sounds good!
+  Date: 2016-08-29
+  Slug: 2016-08-29-sounds-good
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-08-29-sounds-good/index.md
+
+📝 Processing: 2016-09-29_Ireland-s-Fintech-Map-v0-6-1dec9ef33cb7.md
+  Title: Ireland’s Fintech Map v0.6
+  Date: 2016-09-29
+  Slug: 2016-09-29-ireland-s-fintech-map-v0-6-1dec9ef33cb7.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-09-29-ireland-s-fintech-map-v0-6-1dec9ef33cb7.md/index.md
+  📥 Downloading 2 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*QOe7TXdPY0PYdDlLdyBX0A.png: HTTP 429: https://cdn-images-1.medium.com/max/800/1*QOe7TXdPY0PYdDlLdyBX0A.png
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*3ONDFQULiOTfPbJUnYLezA.png: HTTP 429: https://cdn-images-1.medium.com/max/1200/1*3ONDFQULiOTfPbJUnYLezA.png
+  ⚠️  Failed to download 2 image(s):
+    - 1*QOe7TXdPY0PYdDlLdyBX0A.png: HTTP 429: https://cdn-images-1.medium.com/max/800/1*QOe7TXdPY0PYdDlLdyBX0A.png
+    - 1*3ONDFQULiOTfPbJUnYLezA.png: HTTP 429: https://cdn-images-1.medium.com/max/1200/1*3ONDFQULiOTfPbJUnYLezA.png
+
+📝 Processing: 2016-12-03_Gettin-Hygge-with-it--82ec00d2b027.md
+  Title: Gettin Hygge with it\*
+  Date: 2016-12-03
+  Slug: 2016-12-03-gettin-hygge-with-it
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-12-03-gettin-hygge-with-it/index.md
+  📥 Downloading 1 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*GeXbr_56KgIOkIbR53vfbA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*GeXbr_56KgIOkIbR53vfbA.jpeg
+  ⚠️  Failed to download 1 image(s):
+    - 1*GeXbr_56KgIOkIbR53vfbA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*GeXbr_56KgIOkIbR53vfbA.jpeg
+
+📝 Processing: 2016-12-05_Gettin-Hygge-with-It---Part-2-10d55f3e650a.md
+  Title: Gettin Hygge with It — Part 2
+  Date: 2016-12-05
+  Slug: 2016-12-05-gettin-hygge-with-it---part-2-10d55f3e650a.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-12-05-gettin-hygge-with-it---part-2-10d55f3e650a.md/index.md
+  📥 Downloading 3 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*HXLGesn0u-tIjTcP_flqNA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*HXLGesn0u-tIjTcP_flqNA.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*qWfmI9G5up6HZMGMzxo4Cw.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*qWfmI9G5up6HZMGMzxo4Cw.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*rcNkvAm8sKqufmQynkPVaQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*rcNkvAm8sKqufmQynkPVaQ.jpeg
+  ⚠️  Failed to download 3 image(s):
+    - 1*HXLGesn0u-tIjTcP_flqNA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*HXLGesn0u-tIjTcP_flqNA.jpeg
+    - 1*qWfmI9G5up6HZMGMzxo4Cw.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*qWfmI9G5up6HZMGMzxo4Cw.jpeg
+    - 1*rcNkvAm8sKqufmQynkPVaQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*rcNkvAm8sKqufmQynkPVaQ.jpeg
+
+📝 Processing: 2016-12-13_Ireland-s-Fintech-Map-December-2016-723f7dbf1bcc.md
+  Title: Ireland’s Fintech Map December 2016
+  Date: 2016-12-13
+  Slug: 2016-12-13-ireland-s-fintech-map-december-2016-723f7dbf1bcc.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-12-13-ireland-s-fintech-map-december-2016-723f7dbf1bcc.md/index.md
+  📥 Downloading 3 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*a2_bMaDKReJ30j-ECffolA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*a2_bMaDKReJ30j-ECffolA.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*jaAiENcs2l-rfa_VN9V99A.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*jaAiENcs2l-rfa_VN9V99A.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*Xrt74YA0f01lwTScEW6jnQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*Xrt74YA0f01lwTScEW6jnQ.jpeg
+  ⚠️  Failed to download 3 image(s):
+    - 1*a2_bMaDKReJ30j-ECffolA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*a2_bMaDKReJ30j-ECffolA.jpeg
+    - 1*jaAiENcs2l-rfa_VN9V99A.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*jaAiENcs2l-rfa_VN9V99A.jpeg
+    - 1*Xrt74YA0f01lwTScEW6jnQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*Xrt74YA0f01lwTScEW6jnQ.jpeg
+
+📝 Processing: 2016-12-16_Ireland-s-Fintech-20-c4117602b7ad.md
+  Title: Ireland’s Fintech 20
+  Date: 2016-12-16
+  Slug: 2016-12-16-ireland-s-fintech-20-c4117602b7ad.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2016-12-16-ireland-s-fintech-20-c4117602b7ad.md/index.md
+  📥 Downloading 3 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*-6OCaUdaOA3KiaD50oWJ8A.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*-6OCaUdaOA3KiaD50oWJ8A.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*KGSowKmaS2m7oz73fTujnQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*KGSowKmaS2m7oz73fTujnQ.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*2qX17uj3nTo0m6HdTWh_kw.png: HTTP 429: https://cdn-images-1.medium.com/max/800/1*2qX17uj3nTo0m6HdTWh_kw.png
+  ⚠️  Failed to download 3 image(s):
+    - 1*-6OCaUdaOA3KiaD50oWJ8A.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*-6OCaUdaOA3KiaD50oWJ8A.jpeg
+    - 1*KGSowKmaS2m7oz73fTujnQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*KGSowKmaS2m7oz73fTujnQ.jpeg
+    - 1*2qX17uj3nTo0m6HdTWh_kw.png: HTTP 429: https://cdn-images-1.medium.com/max/800/1*2qX17uj3nTo0m6HdTWh_kw.png
+
+📝 Processing: 2017-01-29_Fika--Fintech-and-Just-Feckin-Doing-It-4d7973d3b412.md
+  Title: Fika, Fintech and Just Feckin Doing It
+  Date: 2017-01-29
+  Slug: 2017-01-29-fika--fintech-and-just-feckin-doing-it-4d7973d3b412.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2017-01-29-fika--fintech-and-just-feckin-doing-it-4d7973d3b412.md/index.md
+  📥 Downloading 4 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*8LM8VTu6BUM2LjdE737gkQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*8LM8VTu6BUM2LjdE737gkQ.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*6qTg0RSDNRa12pw-qEm7rQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*6qTg0RSDNRa12pw-qEm7rQ.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*2UYMnsXOmG5E8XSjh78TrA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*2UYMnsXOmG5E8XSjh78TrA.jpeg
+  ⚠️  Failed to download 4 image(s):
+    - 1*8LM8VTu6BUM2LjdE737gkQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*8LM8VTu6BUM2LjdE737gkQ.jpeg
+    - 1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg
+    - 1*6qTg0RSDNRa12pw-qEm7rQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*6qTg0RSDNRa12pw-qEm7rQ.jpeg
+    - 1*2UYMnsXOmG5E8XSjh78TrA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*2UYMnsXOmG5E8XSjh78TrA.jpeg
+
+📝 Processing: 2017-03-17_Ireland-s-Fintech-Map---Paddy-s-Day-Edition-146e092cde5.md
+  Title: Ireland’s Fintech Map – Paddy’s Day Edition
+  Date: 2017-03-17
+  Slug: 2017-03-17-ireland-s-fintech-map---paddy-s-day-edition-146e092cde5.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2017-03-17-ireland-s-fintech-map---paddy-s-day-edition-146e092cde5.md/index.md
+  📥 Downloading 2 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*dteS2iT80KWySWtZTr6opQ@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*dteS2iT80KWySWtZTr6opQ@2x.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg
+  ⚠️  Failed to download 2 image(s):
+    - 1*dteS2iT80KWySWtZTr6opQ@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*dteS2iT80KWySWtZTr6opQ@2x.jpeg
+    - 1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg
+
+📝 Processing: 2017-05-28_Digital-Transformation-f0f75c7f79a6.md
+  Title: Digital Transformation
+  Date: 2017-05-28
+  Slug: 2017-05-28-digital-transformation-f0f75c7f79a6.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2017-05-28-digital-transformation-f0f75c7f79a6.md/index.md
+  📥 Downloading 6 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg
+  ⚠️  Failed to download 6 image(s):
+    - 1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg
+    - 1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg
+    - 1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg
+    - 1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg
+    - 1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg
+    - 1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg
+
+📝 Processing: 2017-06-10_Ireland-s-Fintech-Map---June-2017-b70e37e4e9b3.md
+  Title: Ireland’s Fintech Map – June 2017
+  Date: 2017-06-10
+  Slug: 2017-06-10-ireland-s-fintech-map---june-2017-b70e37e4e9b3.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2017-06-10-ireland-s-fintech-map---june-2017-b70e37e4e9b3.md/index.md
+  📥 Downloading 2 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg
+  ⚠️  Failed to download 2 image(s):
+    - 1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg
+    - 1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg
+
+📝 Processing: 2017-06-15_Fantastic-article--and-kudos-to-Anne-for-getting-Starling-up-and-running--125a52c64beb.md
+  Title: Fantastic article, and kudos to Anne for getting Starling up and running.
+  Date: 2017-06-15
+  Slug: 2017-06-15-fantastic-article--and-kudos-to-anne-for-getting-starling-up-and-running
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2017-06-15-fantastic-article--and-kudos-to-anne-for-getting-starling-up-and-running/index.md
+
+📝 Processing: 2017-10-01_The-All-Ireland-Fintech-Map-v1-3-f1984f95d3a6.md
+  Title: The All-Ireland Fintech Map v1.3
+  Date: 2017-10-01
+  Slug: 2017-10-01-the-all-ireland-fintech-map-v1-3-f1984f95d3a6.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2017-10-01-the-all-ireland-fintech-map-v1-3-f1984f95d3a6.md/index.md
+  📥 Downloading 1 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg
+  ⚠️  Failed to download 1 image(s):
+    - 1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg
+
+📝 Processing: 2017-10-22_Ireland-s-Fintech-Map--Money2020-edition-daf2488ffd95.md
+  Title: Ireland’s Fintech Map: Money2020 edition
+  Date: 2017-10-22
+  Slug: 2017-10-22-ireland-s-fintech-map--money2020-edition-daf2488ffd95.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2017-10-22-ireland-s-fintech-map--money2020-edition-daf2488ffd95.md/index.md
+  📥 Downloading 1 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg
+  ⚠️  Failed to download 1 image(s):
+    - 1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg
+
+📝 Processing: 2020-12-29_Product-Management-for-Public-Good-8adc8feb8c52.md
+  Title: Product Management for Public Good
+  Date: 2020-12-29
+  Slug: 2020-12-29-product-management-for-public-good-8adc8feb8c52.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2020-12-29-product-management-for-public-good-8adc8feb8c52.md/index.md
+  📥 Downloading 3 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 0*d0oSK0qFBUfNZDBv.jpg: HTTP 429: https://cdn-images-1.medium.com/max/800/0*d0oSK0qFBUfNZDBv.jpg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 0*D2MZSZg1ig1KG2bG.jpg: HTTP 429: https://cdn-images-1.medium.com/max/800/0*D2MZSZg1ig1KG2bG.jpg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg
+  ⚠️  Failed to download 3 image(s):
+    - 0*d0oSK0qFBUfNZDBv.jpg: HTTP 429: https://cdn-images-1.medium.com/max/800/0*d0oSK0qFBUfNZDBv.jpg
+    - 0*D2MZSZg1ig1KG2bG.jpg: HTTP 429: https://cdn-images-1.medium.com/max/800/0*D2MZSZg1ig1KG2bG.jpg
+    - 1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg
+
+📝 Processing: 2021-01-09_Cycling--A-True-Underdog-Story-c5a545f09cfd.md
+  Title: Cycling: A True Underdog Story
+  Date: 2021-01-09
+  Slug: 2021-01-09-cycling--a-true-underdog-story-c5a545f09cfd.md
+  ✅ Created: /Users/gingertechie/dev/www/src/content/blog/2021-01-09-cycling--a-true-underdog-story-c5a545f09cfd.md/index.md
+  📥 Downloading 7 image(s)...
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*WxeUXdUec3vQEPRdMpLhKg.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*WxeUXdUec3vQEPRdMpLhKg.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*Gn5AFyqY4GT_T0gjVDjzEQ.png: HTTP 429: https://cdn-images-1.medium.com/max/800/1*Gn5AFyqY4GT_T0gjVDjzEQ.png
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*GLTcwOqWRwF8ipI4i37fEw.png: HTTP 429: https://cdn-images-1.medium.com/max/800/1*GLTcwOqWRwF8ipI4i37fEw.png
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*btjsM5cGt4nB5e-b4iraoA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*btjsM5cGt4nB5e-b4iraoA.jpeg
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*ICDDYvh0_JZqrU9Grd80ag.png: HTTP 429: https://cdn-images-1.medium.com/max/800/1*ICDDYvh0_JZqrU9Grd80ag.png
+  Retry 1/3 after 1000ms...
+  Retry 2/3 after 2000ms...
+    ✗ Failed 1*IvSk5Eut0M1XvZcJbo0_eA.jpeg: HTTP 429: https://cdn-images-1.medium.com/max/800/1*IvSk5Eut0M1XvZcJbo0_eA.jpeg

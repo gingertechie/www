@@ -8,6 +8,8 @@ Interestingly, there are now as many companies queued up for the map as are actu
 
 So what happens to these Companies? Do we simply grind them up into a fine dust, to be sprinkled on the lattés of sexy new Fintech Startups? For Legal Reasons, I am compelled to answer “No”.
 
+![](./1*a2_bMaDKReJ30j-ECffolA.jpeg)
+
 ### Ho Ho How The Map Works
 
 Early in the life of the Fintech map I had to make a decision – which companies to include? I don’t have an infinite sheet of paper, nor an infinite amount of time. I’m not a government-led enterprise agency y'know.
@@ -39,6 +41,8 @@ When I first wrote the criteria, I wrote them in an overcomplicated negatively-p
 
 Who decides if your Company meets these criteria?
 
+![](./1*jaAiENcs2l-rfa_VN9V99A.jpeg)
+
 Me [File Photo].
 
 ### The Updates
@@ -54,6 +58,8 @@ Ok, enough of that silliness. What’s new on Ireland’s Fintech Map version 0.
 * [TouchTech Payments](http://www.touchtechpayments.com)
 * [Xcelerit](http://www.xcelerit.com)
 * [Zarion](http://www.zarion.com)
+
+![](./1*Xrt74YA0f01lwTScEW6jnQ.jpeg)
 
 Thanks to everyone who suggested improvements, or sent new companies my way. This map wouldn’t exist if not for the help and support of the Fintech community (i.e. You!).
 

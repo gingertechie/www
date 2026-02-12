@@ -4,6 +4,8 @@ description: "Can you believe it’s 20 months since I released the first versio
 publicationDate: 2017-10-01T00:00:00Z
 ---
 
+![](./1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg)
+
 The All-Ireland Fintech Map.
 
 Can you believe it’s 20 months since I released the first version of the map, way back in February 2016.

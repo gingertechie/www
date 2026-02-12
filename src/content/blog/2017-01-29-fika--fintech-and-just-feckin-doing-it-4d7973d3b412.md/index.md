@@ -10,6 +10,8 @@ Wrong.
 
 There’s another country who have taken the tea break to the next level. And they even had the audacity to gave it a name. *Fika*.
 
+![](./1*8LM8VTu6BUM2LjdE737gkQ.jpeg)
+
 Yes, it’s the flat-pack-designing, high-cheekbone-having, meatball-munching Swedes.
 
 But wait a second, what’s this about “Kaffe”? Haha! You can’t have a tea break with coffee! So Fika is totally different. Phew, stand down.
@@ -23,6 +25,8 @@ In Fintech we’re obsessed with categories and naming things. Are you in Fintec
 With all this splintering, it’s hard to keep track of what’s going on. The usual solution to this is some kind of association or hub, to act as a central point for news, events and collaboration. That’s the approach we’ve taken in Ireland. Although instead of having one central point, we have several, with a new “umbrella brand” IFSIreland recently launched to present a single face outside of Ireland.
 
 I wondered how other countries were managing this. Where better to start than Sweden?
+
+![](./1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg)
 
 ### Stockholm and Fintech
 
@@ -39,6 +43,8 @@ I went to meet Stockholm Fintech to see if they felt the same.
 ### Stockholm Fintech (part 1)
 
 Yup.
+
+![](./1*6qTg0RSDNRa12pw-qEm7rQ.jpeg)
 
 Meeting with British expat Matthew Argent and the [StockholmFin.tech](http://www.stockholmfin.tech) team, I started to get a sense for the interconnectedness of the Fintech community. And the diversity – with only one native Swede in the room. I wondered, if Sweden was so great at being a Fintech location, why wasn’t an association or hub already in existence?
 
@@ -65,6 +71,8 @@ As I write this, the event has just finished. I was delighted that the StartupWe
 If I remember correctly, this is the first Fintech-themed StartupWeekend in Stockholm. Why? Why not! There’s a large enough community here in Stockholm to support this kind of event, and (spoiler alert) lots of amazing startup people bringing awesome ideas, it just felt right.
 
 Oh, and of course, everyone knows each other – StockholmFin.tech are an event sponsor. Collaboration FTW!
+
+![](./1*2UYMnsXOmG5E8XSjh78TrA.jpeg)
 
 ### Conclusion
 

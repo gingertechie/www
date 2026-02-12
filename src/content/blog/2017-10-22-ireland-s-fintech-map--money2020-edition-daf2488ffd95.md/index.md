@@ -4,6 +4,8 @@ description: "Typical. You wait ages for a Fintech map update, and then two come
 publicationDate: 2017-10-22T00:00:00Z
 ---
 
+![](./1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg)
+
 Eagle-eyed readers will have spotted that Insurance has switched places with Currency & FX. I’m certain there are many more InsureTech companies out there – let me know!
 
 Here are the updates:

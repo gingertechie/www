@@ -10,6 +10,8 @@ Ok, dear reader, set aside your cynicism and strap on some seasonal goodwill. I�
 
 In Ireland we’re great at some things, but there’s one skill where we’re truly world-class.
 
+![](./1*-6OCaUdaOA3KiaD50oWJ8A.jpeg)
+
 Cynicism. If there was an Olympics for cynicism, we’d take gold, silver and bronze. And yes, there would be a ticket scandal, but it would turn out that the money was just [resting in our account](http://fatherted.wikia.com/wiki/Ted_Crilly).
 
 Ok so we’re not your high-fiving, wide-eyed silicon valley cheerleaders, changing the world to be a better place and hitting gazillion dollar valuations in mere days. It’s not for us, Ted.
@@ -24,6 +26,8 @@ Recently, the outgoing [Startup Commissioner for Dublin](http://www.startupdubli
 
 Luckily, folks like [Dave McClure](https://medium.com/u/ed0a2ab3c5be) sometimes remind us how to [farm Unicorns](https://www.slideshare.net/mobile/dmc500hats/farming-unicorns-building-startup-investor-ecosystems-dublin-june-2016/2-Dave_McClureFounding_Partner_500_Startups00s).
 
+![](./1*KGSowKmaS2m7oz73fTujnQ.jpeg)
+
 Anyone who ever worked a sales funnel will recognise this challenge. You’ve got to just keep on grinding through, pump in those new leads, learn from the losses (and the wins). You put your cynicism aside and take each opportunity as it comes. Each loss makes us hungrier, each win gets us closer to that vision that gets us out of bed every day.
 
 ---
@@ -31,6 +35,8 @@ Anyone who ever worked a sales funnel will recognise this challenge. You’ve go
 It’s easy to be cynical about the Fintech 20. We can dismiss the efforts of these young companies, who are out there to make a difference in some small part of financial services. It’s easy to roll our eyes and criticise the selection process, the attendance, the venue, the free food and booze (ok, nobody ever criticises free drink).
 
 But I hope that you can rise above your natural instinct for cynicism and instead talk about what’s working. Sure, give constructive feedback. Try. Improve. Teach. Learn. Iterate. [Fail better](http://www.slate.com/articles/arts/culturebox/2014/01/samuel_beckett_s_quote_fail_better_becomes_the_mantra_of_silicon_valley.html). Use your superpowers for good.
+
+![](./1*2qX17uj3nTo0m6HdTWh_kw.png)
 
 (C) [Irish Tech News](http://irishtechnews.net/)
 

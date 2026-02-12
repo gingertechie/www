@@ -34,4 +34,6 @@ As always, I’m very happy to take corrections, feedback, additions and comment
 
 Oh, and here’s the map :)
 
+![](./1*NWQniHv22h_9dLSkyscePQ.png)
+
 Ireland’s Fintech Map v0.5
