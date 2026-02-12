@@ -1,5 +1,5 @@
 ---
-title: "Gettin Hygge with it\*"
+title: "Gettin Hygge with it*"
 description: "I’m special. At least that’s what my mother always told me. And you’re special too. We’re all unique special snowflakes. As a startup…"
 publicationDate: 2016-12-03T00:00:00Z
 ---
@@ -31,8 +31,6 @@ So I reached out to the Copenhagen Fintech group [CFIR.dk](http://www.cfir.dk) a
 Fast forward to late summer. It was as I watched the royal band marching past the brass-plated CFIR building, I came to realise that I may have been tragically under-dressed for the meeting.
 
 ---
-
-![](./1*GeXbr_56KgIOkIbR53vfbA.jpeg)
 
 Well, it’s quite a nice area. As you would expect for the Danish bankers association. Note to Ireland’s Fintech groups: more marching bands (oh Belfast, not like *that).*
 

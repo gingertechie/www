@@ -1,6 +1,6 @@
 ---
 title: "Why Build a Fintech Ecosystem?"
-description: "Shouldn’t we be focusing on building sh\*t people want, iterating our product, getting traction, scaling, exiting?"
+description: "Shouldn't we be focusing on building sh*t people want, iterating our product, getting traction, scaling, exiting?"
 publicationDate: 2016-06-19T00:00:00Z
 ---
 
@@ -18,8 +18,6 @@ What is the ecosystem? Here’s one definition:
 
 Organisms, elements, environment — it all sounds quite organic doesn’t it? That sounds pretty familiar. If you’ve ever attended a networking event, it’s pure nature in action. The environment is set, the finger food is circulated, flesh is pressed, business cards are exchanged, promises to catch up for coffee are swapped. If you listen closely, you can just about hear the whispered Attenborough narration in the background.
 
-![](./1*IpprCtLGvyC7g7RoB_BxDA.jpeg)
-
 And this system works. People get connected. Businesses are formed, partnerships struck, organisms evolve, connect and thrive.
 
 However, as an engineer, this is suboptimal and deeply unsatisfactory.
@@ -36,13 +34,9 @@ As a former startup founder, money and mentoring is great. But there’s one res
 
 During the year there are any number of opportunities to find suppliers, business partners and talented staff. But it might take you weeks, or months, to connect. And during the summer, the events dry up — come back in the autumn (if you survive that long).
 
-![](./1*8QRxALYyRe4FnfFHFrILvA.jpeg)
-
 So this is why we at [FintechIreland.com](https://www.fintechireland.com) decided to accelerate this process. We created an event where you can meet not just a handful of Fintech people, but dozens!
 
 The event is “Fintech Speed-Dating”, where you’ll not only be able to meet others from Ireland’s Fintech community, but you’ll also get unprecedented one-on-one access to some of the best and brightest in the Fintech ecosystem.
-
-![](./1*wYowKminfPuQiXLnBcnL9A.jpeg)
 
 Ireland’s Fintech Movers & Shakers
 

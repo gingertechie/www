@@ -8,7 +8,7 @@ export const SITE: SiteConfiguration = {
   title: "GingerTechie",
   description:
     "Articles on fintech, product management, and technology by Dave Anderson.",
-  href: "https://gingertechie.com",
+  href: "https://blog.gingertechie.com",
   author: "Dave Anderson",
   locale: "en-CA",
 };

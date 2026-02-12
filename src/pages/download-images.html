@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Medium Images</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+        }
+        .instructions {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #4CAF50;
+        }
+        .image-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .image-card {
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .image-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        .filename {
+            font-family: monospace;
+            font-size: 12px;
+            color: #666;
+            word-break: break-all;
+            margin-bottom: 10px;
+        }
+        .download-btn {
+            display: inline-block;
+            padding: 8px 16px;
+            background: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .download-btn:hover {
+            background: #45a049;
+        }
+        .stats {
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>📥 Download Medium Images</h1>
+
+    <div class="instructions">
+        <h3>Instructions:</h3>
+        <ol>
+            <li>Open this page in Chrome (where Medium images load without rate limiting)</li>
+            <li>Use a browser extension like "Download All Images" or "Image Downloader" to download all images at once</li>
+            <li>After downloading, run: <code>node scripts/move-images.js</code> to organize them into the correct blog post directories</li>
+        </ol>
+    </div>
+
+    <div class="stats">
+        <strong>Total Images to Download: 54</strong>
+    </div>
+
+    <div class="image-list">
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/1200/1*3ONDFQULiOTfPbJUnYLezA.png" alt="Image">
+            <div class="filename">1*3ONDFQULiOTfPbJUnYLezA.png</div>
+            <a href="https://cdn-images-1.medium.com/max/1200/1*3ONDFQULiOTfPbJUnYLezA.png" download="1*3ONDFQULiOTfPbJUnYLezA.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/1200/1*JDgSSi5ipCtgq6mKhl68Aw.jpeg" alt="Image">
+            <div class="filename">1*JDgSSi5ipCtgq6mKhl68Aw.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/1200/1*JDgSSi5ipCtgq6mKhl68Aw.jpeg" download="1*JDgSSi5ipCtgq6mKhl68Aw.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/1200/1*NWQniHv22h_9dLSkyscePQ.png" alt="Image">
+            <div class="filename">1*NWQniHv22h_9dLSkyscePQ.png</div>
+            <a href="https://cdn-images-1.medium.com/max/1200/1*NWQniHv22h_9dLSkyscePQ.png" download="1*NWQniHv22h_9dLSkyscePQ.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/0*d0oSK0qFBUfNZDBv.jpg" alt="Image">
+            <div class="filename">0*d0oSK0qFBUfNZDBv.jpg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/0*d0oSK0qFBUfNZDBv.jpg" download="0*d0oSK0qFBUfNZDBv.jpg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/0*D2MZSZg1ig1KG2bG.jpg" alt="Image">
+            <div class="filename">0*D2MZSZg1ig1KG2bG.jpg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/0*D2MZSZg1ig1KG2bG.jpg" download="0*D2MZSZg1ig1KG2bG.jpg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg" alt="Image">
+            <div class="filename">1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg" download="1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*-6OCaUdaOA3KiaD50oWJ8A.jpeg" alt="Image">
+            <div class="filename">1*-6OCaUdaOA3KiaD50oWJ8A.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*-6OCaUdaOA3KiaD50oWJ8A.jpeg" download="1*-6OCaUdaOA3KiaD50oWJ8A.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*1Ekw82f_XAFsGsXFmaEbRw.jpeg" alt="Image">
+            <div class="filename">1*1Ekw82f_XAFsGsXFmaEbRw.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*1Ekw82f_XAFsGsXFmaEbRw.jpeg" download="1*1Ekw82f_XAFsGsXFmaEbRw.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg" alt="Image">
+            <div class="filename">1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg" download="1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*2qX17uj3nTo0m6HdTWh_kw.png" alt="Image">
+            <div class="filename">1*2qX17uj3nTo0m6HdTWh_kw.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*2qX17uj3nTo0m6HdTWh_kw.png" download="1*2qX17uj3nTo0m6HdTWh_kw.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*2UYMnsXOmG5E8XSjh78TrA.jpeg" alt="Image">
+            <div class="filename">1*2UYMnsXOmG5E8XSjh78TrA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*2UYMnsXOmG5E8XSjh78TrA.jpeg" download="1*2UYMnsXOmG5E8XSjh78TrA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg" alt="Image">
+            <div class="filename">1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg" download="1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*6qTg0RSDNRa12pw-qEm7rQ.jpeg" alt="Image">
+            <div class="filename">1*6qTg0RSDNRa12pw-qEm7rQ.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*6qTg0RSDNRa12pw-qEm7rQ.jpeg" download="1*6qTg0RSDNRa12pw-qEm7rQ.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*8LM8VTu6BUM2LjdE737gkQ.jpeg" alt="Image">
+            <div class="filename">1*8LM8VTu6BUM2LjdE737gkQ.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*8LM8VTu6BUM2LjdE737gkQ.jpeg" download="1*8LM8VTu6BUM2LjdE737gkQ.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*8QRxALYyRe4FnfFHFrILvA.jpeg" alt="Image">
+            <div class="filename">1*8QRxALYyRe4FnfFHFrILvA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*8QRxALYyRe4FnfFHFrILvA.jpeg" download="1*8QRxALYyRe4FnfFHFrILvA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*a2_bMaDKReJ30j-ECffolA.jpeg" alt="Image">
+            <div class="filename">1*a2_bMaDKReJ30j-ECffolA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*a2_bMaDKReJ30j-ECffolA.jpeg" download="1*a2_bMaDKReJ30j-ECffolA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg" alt="Image">
+            <div class="filename">1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg" download="1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*btjsM5cGt4nB5e-b4iraoA.jpeg" alt="Image">
+            <div class="filename">1*btjsM5cGt4nB5e-b4iraoA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*btjsM5cGt4nB5e-b4iraoA.jpeg" download="1*btjsM5cGt4nB5e-b4iraoA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*DlIwGA541ogLyWPjm8mFHg.jpeg" alt="Image">
+            <div class="filename">1*DlIwGA541ogLyWPjm8mFHg.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*DlIwGA541ogLyWPjm8mFHg.jpeg" download="1*DlIwGA541ogLyWPjm8mFHg.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*dsU2-o8TQFRJZyYwyk83Nw.jpeg" alt="Image">
+            <div class="filename">1*dsU2-o8TQFRJZyYwyk83Nw.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*dsU2-o8TQFRJZyYwyk83Nw.jpeg" download="1*dsU2-o8TQFRJZyYwyk83Nw.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*dteS2iT80KWySWtZTr6opQ@2x.jpeg" alt="Image">
+            <div class="filename">1*dteS2iT80KWySWtZTr6opQ@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*dteS2iT80KWySWtZTr6opQ@2x.jpeg" download="1*dteS2iT80KWySWtZTr6opQ@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*EbMsXgEvR_SvzRL79zrcXA.jpeg" alt="Image">
+            <div class="filename">1*EbMsXgEvR_SvzRL79zrcXA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*EbMsXgEvR_SvzRL79zrcXA.jpeg" download="1*EbMsXgEvR_SvzRL79zrcXA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg" alt="Image">
+            <div class="filename">1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg" download="1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*GcFznowwd5JBQHQ9MkcXFA.png" alt="Image">
+            <div class="filename">1*GcFznowwd5JBQHQ9MkcXFA.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*GcFznowwd5JBQHQ9MkcXFA.png" download="1*GcFznowwd5JBQHQ9MkcXFA.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*GeXbr_56KgIOkIbR53vfbA.jpeg" alt="Image">
+            <div class="filename">1*GeXbr_56KgIOkIbR53vfbA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*GeXbr_56KgIOkIbR53vfbA.jpeg" download="1*GeXbr_56KgIOkIbR53vfbA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*gF8NctiVdt6QXda5-yk0bg.jpeg" alt="Image">
+            <div class="filename">1*gF8NctiVdt6QXda5-yk0bg.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*gF8NctiVdt6QXda5-yk0bg.jpeg" download="1*gF8NctiVdt6QXda5-yk0bg.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*GLTcwOqWRwF8ipI4i37fEw.png" alt="Image">
+            <div class="filename">1*GLTcwOqWRwF8ipI4i37fEw.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*GLTcwOqWRwF8ipI4i37fEw.png" download="1*GLTcwOqWRwF8ipI4i37fEw.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*Gn5AFyqY4GT_T0gjVDjzEQ.png" alt="Image">
+            <div class="filename">1*Gn5AFyqY4GT_T0gjVDjzEQ.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*Gn5AFyqY4GT_T0gjVDjzEQ.png" download="1*Gn5AFyqY4GT_T0gjVDjzEQ.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*HXLGesn0u-tIjTcP_flqNA.jpeg" alt="Image">
+            <div class="filename">1*HXLGesn0u-tIjTcP_flqNA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*HXLGesn0u-tIjTcP_flqNA.jpeg" download="1*HXLGesn0u-tIjTcP_flqNA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*ICDDYvh0_JZqrU9Grd80ag.png" alt="Image">
+            <div class="filename">1*ICDDYvh0_JZqrU9Grd80ag.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*ICDDYvh0_JZqrU9Grd80ag.png" download="1*ICDDYvh0_JZqrU9Grd80ag.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg" alt="Image">
+            <div class="filename">1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg" download="1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*IpprCtLGvyC7g7RoB_BxDA.jpeg" alt="Image">
+            <div class="filename">1*IpprCtLGvyC7g7RoB_BxDA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*IpprCtLGvyC7g7RoB_BxDA.jpeg" download="1*IpprCtLGvyC7g7RoB_BxDA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*IvSk5Eut0M1XvZcJbo0_eA.jpeg" alt="Image">
+            <div class="filename">1*IvSk5Eut0M1XvZcJbo0_eA.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*IvSk5Eut0M1XvZcJbo0_eA.jpeg" download="1*IvSk5Eut0M1XvZcJbo0_eA.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*jaAiENcs2l-rfa_VN9V99A.jpeg" alt="Image">
+            <div class="filename">1*jaAiENcs2l-rfa_VN9V99A.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*jaAiENcs2l-rfa_VN9V99A.jpeg" download="1*jaAiENcs2l-rfa_VN9V99A.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*KGSowKmaS2m7oz73fTujnQ.jpeg" alt="Image">
+            <div class="filename">1*KGSowKmaS2m7oz73fTujnQ.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*KGSowKmaS2m7oz73fTujnQ.jpeg" download="1*KGSowKmaS2m7oz73fTujnQ.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg" alt="Image">
+            <div class="filename">1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg" download="1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*Lqts6uyjTSKLffZUduR2CQ.png" alt="Image">
+            <div class="filename">1*Lqts6uyjTSKLffZUduR2CQ.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*Lqts6uyjTSKLffZUduR2CQ.png" download="1*Lqts6uyjTSKLffZUduR2CQ.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg" alt="Image">
+            <div class="filename">1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg" download="1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg" alt="Image">
+            <div class="filename">1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg" download="1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*o4zXKeRHg6_t_tAxrOTLPg.png" alt="Image">
+            <div class="filename">1*o4zXKeRHg6_t_tAxrOTLPg.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*o4zXKeRHg6_t_tAxrOTLPg.png" download="1*o4zXKeRHg6_t_tAxrOTLPg.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg" alt="Image">
+            <div class="filename">1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg" download="1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*QOe7TXdPY0PYdDlLdyBX0A.png" alt="Image">
+            <div class="filename">1*QOe7TXdPY0PYdDlLdyBX0A.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*QOe7TXdPY0PYdDlLdyBX0A.png" download="1*QOe7TXdPY0PYdDlLdyBX0A.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*qWfmI9G5up6HZMGMzxo4Cw.jpeg" alt="Image">
+            <div class="filename">1*qWfmI9G5up6HZMGMzxo4Cw.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*qWfmI9G5up6HZMGMzxo4Cw.jpeg" download="1*qWfmI9G5up6HZMGMzxo4Cw.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*rcNkvAm8sKqufmQynkPVaQ.jpeg" alt="Image">
+            <div class="filename">1*rcNkvAm8sKqufmQynkPVaQ.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*rcNkvAm8sKqufmQynkPVaQ.jpeg" download="1*rcNkvAm8sKqufmQynkPVaQ.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*rvyhWXSrBcBki87nlClpfg.jpeg" alt="Image">
+            <div class="filename">1*rvyhWXSrBcBki87nlClpfg.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*rvyhWXSrBcBki87nlClpfg.jpeg" download="1*rvyhWXSrBcBki87nlClpfg.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg" alt="Image">
+            <div class="filename">1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg" download="1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*uNDYC3qXgg5UN9mAbkJubQ.png" alt="Image">
+            <div class="filename">1*uNDYC3qXgg5UN9mAbkJubQ.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*uNDYC3qXgg5UN9mAbkJubQ.png" download="1*uNDYC3qXgg5UN9mAbkJubQ.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*vG21VBmOdQmRC0z5T19Pag.png" alt="Image">
+            <div class="filename">1*vG21VBmOdQmRC0z5T19Pag.png</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*vG21VBmOdQmRC0z5T19Pag.png" download="1*vG21VBmOdQmRC0z5T19Pag.png" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*WxeUXdUec3vQEPRdMpLhKg.jpeg" alt="Image">
+            <div class="filename">1*WxeUXdUec3vQEPRdMpLhKg.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*WxeUXdUec3vQEPRdMpLhKg.jpeg" download="1*WxeUXdUec3vQEPRdMpLhKg.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*wYowKminfPuQiXLnBcnL9A.jpeg" alt="Image">
+            <div class="filename">1*wYowKminfPuQiXLnBcnL9A.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*wYowKminfPuQiXLnBcnL9A.jpeg" download="1*wYowKminfPuQiXLnBcnL9A.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg" alt="Image">
+            <div class="filename">1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg" download="1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg" alt="Image">
+            <div class="filename">1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg" download="1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*Xrt74YA0f01lwTScEW6jnQ.jpeg" alt="Image">
+            <div class="filename">1*Xrt74YA0f01lwTScEW6jnQ.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*Xrt74YA0f01lwTScEW6jnQ.jpeg" download="1*Xrt74YA0f01lwTScEW6jnQ.jpeg" class="download-btn">Download</a>
+        </div>
+        <div class="image-card">
+            <img src="https://cdn-images-1.medium.com/max/800/1*ZvW1IqSz0WfM5grUCzjqsQ.jpeg" alt="Image">
+            <div class="filename">1*ZvW1IqSz0WfM5grUCzjqsQ.jpeg</div>
+            <a href="https://cdn-images-1.medium.com/max/800/1*ZvW1IqSz0WfM5grUCzjqsQ.jpeg" download="1*ZvW1IqSz0WfM5grUCzjqsQ.jpeg" class="download-btn">Download</a>
+        </div>
+    </div>
+</body>
+</html>
