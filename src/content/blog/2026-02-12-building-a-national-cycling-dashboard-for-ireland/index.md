@@ -1,4 +1,8 @@
-# Building a National Cycling Dashboard for Ireland
+---
+title: "Building a National Cycling Dashboard for Ireland"
+description: "A couple of years ago, I asked Ireland's National Transport Authority (the NTA) what the national approach to measuring active travel was. The answer wasn't ideal: there is no national approach. I'm sharing my experiences building a national dashboard using Telraam sensors."
+publicationDate: 2026-02-12T00:00:00Z
+---
 
 A couple of years ago, I asked Ireland's National Transport Authority (the NTA) what the national approach to measuring active travel was. The answer wasn't ideal: there is no national appoach (and in 2026 this is still the case, as far as I know). There is only a Dublin-based group who measure active travel in Dublin - using a vast number of sensors, and a team of people. Outside of Dublin, the picture is less than inspiring.
 
@@ -9,20 +13,20 @@ My first challenge was how to identify all the sensors in Ireland. I looked to t
 ## Sensors - Cameras or Segments?
 
 Where to start? Looking at the API docs, there are a few options
-* All Segments? 
-* All available cameras? 
-* Active segments [legacy version]? 
+* All Segments?
+* All available cameras?
+* Active segments [legacy version]?
 
 ## All Segments?
 
-API: https://telraam-api.net/v1/segments/all 
+API: https://telraam-api.net/v1/segments/all
 
-The description says "This HTTP GET request method is used to retrieve all road segments from the server in GeoJSON format (coordinate pair strings). ... Also, the returned coordinates are in EPSG 31370 format. We suggest using one of the traffic snapshot APIs instead, which return the more commonly used EPSG 4326 format (and other useful data)." 
+The description says "This HTTP GET request method is used to retrieve all road segments from the server in GeoJSON format (coordinate pair strings). ... Also, the returned coordinates are in EPSG 31370 format. We suggest using one of the traffic snapshot APIs instead, which return the more commonly used EPSG 4326 format (and other useful data)."
 
 Hmm. OK. What?
 
-### Recommendation: 
-1. Update the description to clarify whether the response uses GeoJSON or EPSG 31370 (or both). 
+### Recommendation:
+1. Update the description to clarify whether the response uses GeoJSON or EPSG 31370 (or both).
 2. Why provide this API and then suggest using "one of" the traffic APIs? Either fix this API to provide clear results, or deprecate it and specify which API exactly should be used instead
 3. Explain the response structure, including what is an oidn (OIDN?)
 
@@ -80,7 +84,7 @@ Whether it was due to repeated testing or something else, I hit the rate limit, 
 ### Recommendation
 9. Provide rate-limiting information in the response headers, so that scripts can back-off dynamically, rather than using static delays
 10. The API only allows a "format" of hourly data. It would be nice to be able to specify aggregated data, by day, week or month in the API request.
-Now that I was fetching data, I found that some sensors were inactive. Some years ago there was an initiative to roll out the Telraam v1 sensors, and many of these are now switched off. 
+Now that I was fetching data, I found that some sensors were inactive. Some years ago there was an initiative to roll out the Telraam v1 sensors, and many of these are now switched off.
 
 ## Strange Data
 
