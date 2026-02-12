@@ -1,0 +1,6 @@
+name = "gingertechie"
+main = "workers-site/index.js"
+compatibility_date = "2026-02-12"
+
+[site]
+bucket = "./dist"

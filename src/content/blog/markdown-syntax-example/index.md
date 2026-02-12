@@ -250,7 +250,7 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets (
 
 ### Relative
 
-Use the `![altText](./image.*)` pattern relative to the same folder as the markdown file. Notice the period.
+Use the `` pattern relative to the same folder as the markdown file. Notice the period.
 
 ```md
 ![X-Wing Starfighter](./x-wing.jpeg)

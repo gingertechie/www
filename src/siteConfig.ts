@@ -5,11 +5,11 @@ import type {
 } from "@/types.ts";
 
 export const SITE: SiteConfiguration = {
-  title: "Barebones",
+  title: "GingerTechie",
   description:
-    "A barebones starter theme. Built with Astro, Tailwind CSS, and Markdown.",
-  href: "https://barebones.superwebthemes.com",
-  author: "SuperWeb Development Inc.",
+    "Articles on fintech, product management, and technology by Dave Anderson.",
+  href: "https://gingertechie.com",
+  author: "Dave Anderson",
   locale: "en-CA",
 };
 
@@ -18,27 +18,11 @@ export const NAV_LINKS: NavigationLinks = {
     path: "/blog",
     label: "Blog",
   },
-  projects: {
-    path: "/projects",
-    label: "Projects",
-  },
-  documentation: {
-    path: "https://docs.superwebthemes.com",
-    label: "Documentation",
-  },
 };
 
 export const SOCIAL_LINKS: SocialLinks = {
-  email: {
-    label: "Email",
-    href: "mailto:ttl@trevortylerlee.com",
-  },
-  github: {
-    label: "GitHub",
-    href: "https://github.com/trevortylerlee",
-  },
   twitter: {
     label: "X (formerly Twitter)",
-    href: "https://twitter.com/boogerbuttcheek",
+    href: "https://twitter.com/supergingerdave",
   },
 };

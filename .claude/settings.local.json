@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(done)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(xargs -I {} sh -c 'echo \"\"\"\"=== {} ===\"\"\"\" && grep -o \"\"\"\"https://cdn-images-1.medium.com/max/[^\\)]*\"\"\"\" {}')",
+      "Bash(xargs cat:*)",
+      "Bash(chmod:*)",
+      "Bash(node scripts/migrate-medium.js:*)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Bash(npm install:*)",
+      "Bash(node scripts/validate-migration.js:*)",
+      "Bash(npm run build:*)",
+      "Bash(node scripts/remove-missing-images.js:*)",
+      "Bash(npm run preview:*)",
+      "Bash(npx wrangler deploy:*)",
+      "Bash(npx wrangler tail:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}

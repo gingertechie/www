@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-02-12T16:27:32.810Z",
+  "summary": {
+    "totalPosts": 27,
+    "validPosts": 27,
+    "expectedPosts": 27,
+    "postsWithErrors": 0,
+    "postsWithWarnings": 15
+  },
+  "generalIssues": [],
+  "postIssues": [
+    {
+      "slug": "2016-06-19-why-build-a-fintech-ecosystem",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*uNDYC3qXgg5UN9mAbkJubQ.png",
+        "Image not found: ./1*IpprCtLGvyC7g7RoB_BxDA.jpeg",
+        "Image not found: ./1*8QRxALYyRe4FnfFHFrILvA.jpeg",
+        "Image not found: ./1*wYowKminfPuQiXLnBcnL9A.jpeg"
+      ]
+    },
+    {
+      "slug": "2016-07-10-ireland-s-fintech-map-v0-5-34801b140cf9.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*NWQniHv22h_9dLSkyscePQ.png"
+      ]
+    },
+    {
+      "slug": "2016-09-29-ireland-s-fintech-map-v0-6-1dec9ef33cb7.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*QOe7TXdPY0PYdDlLdyBX0A.png",
+        "Image not found: ./1*3ONDFQULiOTfPbJUnYLezA.png"
+      ]
+    },
+    {
+      "slug": "2016-12-03-gettin-hygge-with-it",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*GeXbr_56KgIOkIbR53vfbA.jpeg"
+      ]
+    },
+    {
+      "slug": "2016-12-05-gettin-hygge-with-it---part-2-10d55f3e650a.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*HXLGesn0u-tIjTcP_flqNA.jpeg",
+        "Image not found: ./1*qWfmI9G5up6HZMGMzxo4Cw.jpeg",
+        "Image not found: ./1*rcNkvAm8sKqufmQynkPVaQ.jpeg"
+      ]
+    },
+    {
+      "slug": "2016-12-13-ireland-s-fintech-map-december-2016-723f7dbf1bcc.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*a2_bMaDKReJ30j-ECffolA.jpeg",
+        "Image not found: ./1*jaAiENcs2l-rfa_VN9V99A.jpeg",
+        "Image not found: ./1*Xrt74YA0f01lwTScEW6jnQ.jpeg"
+      ]
+    },
+    {
+      "slug": "2016-12-16-ireland-s-fintech-20-c4117602b7ad.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*-6OCaUdaOA3KiaD50oWJ8A.jpeg",
+        "Image not found: ./1*KGSowKmaS2m7oz73fTujnQ.jpeg",
+        "Image not found: ./1*2qX17uj3nTo0m6HdTWh_kw.png"
+      ]
+    },
+    {
+      "slug": "2017-01-29-fika--fintech-and-just-feckin-doing-it-4d7973d3b412.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*8LM8VTu6BUM2LjdE737gkQ.jpeg",
+        "Image not found: ./1*_sIjAPhyOPT8iYrqs4Hdbw.jpeg",
+        "Image not found: ./1*6qTg0RSDNRa12pw-qEm7rQ.jpeg",
+        "Image not found: ./1*2UYMnsXOmG5E8XSjh78TrA.jpeg"
+      ]
+    },
+    {
+      "slug": "2017-03-17-ireland-s-fintech-map---paddy-s-day-edition-146e092cde5.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*dteS2iT80KWySWtZTr6opQ@2x.jpeg",
+        "Image not found: ./1*ssUORA9F3bJMjAzAB873Bg@2x.jpeg"
+      ]
+    },
+    {
+      "slug": "2017-05-28-digital-transformation-f0f75c7f79a6.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*XMwpgoXgJ2BZ926Q1xuZVA@2x.jpeg",
+        "Image not found: ./1*PJ03pLCcKi9KdMGlsVwjcA@2x.jpeg",
+        "Image not found: ./1*1Ir_iAq1Mvmai3cohtgydQ@2x.jpeg",
+        "Image not found: ./1*5ExDHQxFjoZ7IrF7y6YmQQ@2x.jpeg",
+        "Image not found: ./1*bmLR7_FYKCyF5HUK9NSK3Q@2x.jpeg",
+        "Image not found: ./1*EI1TuNa139m5ZeRbkdN5tA@2x.jpeg"
+      ]
+    },
+    {
+      "slug": "2017-06-10-ireland-s-fintech-map---june-2017-b70e37e4e9b3.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*M4IosO5qLmA9KbyUPCJgRA@2x.jpeg",
+        "Image not found: ./1*n12EOPd6e-ZSDnLpTfaFgQ@2x.jpeg"
+      ]
+    },
+    {
+      "slug": "2017-10-01-the-all-ireland-fintech-map-v1-3-f1984f95d3a6.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*ILeLbk3Mlk3y-PdBTkGwbw@2x.jpeg"
+      ]
+    },
+    {
+      "slug": "2017-10-22-ireland-s-fintech-map--money2020-edition-daf2488ffd95.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*x_UaTsFNUefuKAe2m4mjbw@2x.jpeg"
+      ]
+    },
+    {
+      "slug": "2020-12-29-product-management-for-public-good-8adc8feb8c52.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./0*d0oSK0qFBUfNZDBv.jpg",
+        "Image not found: ./0*D2MZSZg1ig1KG2bG.jpg",
+        "Image not found: ./1*Lmz4aY0fN9ejS1zyPZFgFQ.jpeg"
+      ]
+    },
+    {
+      "slug": "2021-01-09-cycling--a-true-underdog-story-c5a545f09cfd.md",
+      "errors": [],
+      "warnings": [
+        "Image not found: ./1*WxeUXdUec3vQEPRdMpLhKg.jpeg",
+        "Image not found: ./1*Gn5AFyqY4GT_T0gjVDjzEQ.png",
+        "Image not found: ./1*GLTcwOqWRwF8ipI4i37fEw.png",
+        "Image not found: ./1*btjsM5cGt4nB5e-b4iraoA.jpeg",
+        "Image not found: ./1*ICDDYvh0_JZqrU9Grd80ag.png",
+        "Image not found: ./1*IvSk5Eut0M1XvZcJbo0_eA.jpeg",
+        "Image not found: ./1*rvyhWXSrBcBki87nlClpfg.jpeg"
+      ]
+    }
+  ]
+}
