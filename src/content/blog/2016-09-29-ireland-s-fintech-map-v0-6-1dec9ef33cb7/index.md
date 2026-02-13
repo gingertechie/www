@@ -5,8 +5,6 @@ publicationDate: 2016-09-29T00:00:00Z
 image: "./1-QOe7TXdPY0PYdDlLdyBX0A.png"
 
 ---
-### Ireland’s Fintech Map v0.6
-
 Hey everyone, how was your summer? You remember that one sunny day? Yeah, nice …
 
 It’s been quite a while since the [last update](https://blog.gingertechie.com/irelands-fintech-map-v0-5-34801b140cf9#.830ry9pj9) so naturally there are quite a few updates:

@@ -5,8 +5,6 @@ publicationDate: 2017-10-22T00:00:00Z
 image: "./1-x_UaTsFNUefuKAe2m4mjbw-2x.jpeg"
 
 ---
-### Ireland’s Fintech Map: Money2020 edition
-
 Typical. You wait ages for a Fintech map update, and then two come along all at once! Here’s the second update this month!
 
 ![](./1-x_UaTsFNUefuKAe2m4mjbw-2x.jpeg)

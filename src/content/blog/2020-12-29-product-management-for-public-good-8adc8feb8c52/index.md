@@ -5,7 +5,6 @@ publicationDate: 2020-12-29T00:00:00Z
 image: "./0-d0oSK0qFBUfNZDBv.jpg"
 
 ---
-### Product Management for Public Good
 
 \*record scratch\*
 

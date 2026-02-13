@@ -5,8 +5,6 @@ publicationDate: 2017-05-28T00:00:00Z
 image: "./1-XMwpgoXgJ2BZ926Q1xuZVA-2x.jpeg"
 
 ---
-### Digital Transformation
-
 What if I told you you are doing Digital Transformation wrong?
 
 ![](./1-XMwpgoXgJ2BZ926Q1xuZVA-2x.jpeg)

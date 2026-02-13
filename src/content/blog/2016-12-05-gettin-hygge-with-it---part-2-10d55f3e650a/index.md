@@ -5,8 +5,6 @@ publicationDate: 2016-12-05T00:00:00Z
 image: "./1-HXLGesn0u-tIjTcP_flqNA.jpeg"
 
 ---
-### Gettin Hygge with It — Part 2
-
 This is the second part of my story about why I’m helping to connect the Fintech communities in Ireland and Denmark. If you missed part 1, you can [read it here](https://blog.gingertechie.com/gettin-hygge-with-it-82ec00d2b027#.mfcgr1284).
 
 In the tech world, we like t-shirts. They’re practical, unfussy and there’s an endless supply of them from meet ups, conferences and events. I’ve heard Fintech described as a “meeting of suits and t-shirts” and that sounds like a pretty good description to me.

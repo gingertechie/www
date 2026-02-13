@@ -5,8 +5,6 @@ publicationDate: 2017-10-01T00:00:00Z
 image: "./1-ILeLbk3Mlk3y-PdBTkGwbw-2x.jpeg"
 
 ---
-### The All-Ireland Fintech Map v1.3
-
 ![](./1-ILeLbk3Mlk3y-PdBTkGwbw-2x.jpeg)
 
 The All-Ireland Fintech Map.

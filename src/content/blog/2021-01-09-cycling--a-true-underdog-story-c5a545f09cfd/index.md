@@ -5,8 +5,6 @@ publicationDate: 2021-01-09T00:00:00Z
 image: "./1-WxeUXdUec3vQEPRdMpLhKg.jpeg"
 
 ---
-### Cycling: A True Underdog Story
-
 This is a follow up to my [previous article](https://blog.gingertechie.com/product-management-for-public-good-8adc8feb8c52) on cycling advocacy and product management. No sequel is as good as the original, and this will be no exception (but the special effects will be **a***m***a***z***i***n***g)**
 
 ![](./1-WxeUXdUec3vQEPRdMpLhKg.jpeg)

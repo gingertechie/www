@@ -5,8 +5,6 @@ publicationDate: 2016-12-16T00:00:00Z
 image: "./1--6OCaUdaOA3KiaD50oWJ8A.jpeg"
 
 ---
-### Ireland’s Fintech 20
-
 Uh-oh. Here’s another one of those lists. Top 50 influencers. Hot 100 innovators. The 37 Fintech Upstarters You Simply Need To Know About.
 
 Ok, dear reader, set aside your cynicism and strap on some seasonal goodwill. I’m going to tell you why this is important, and why you should give a sh1t.

@@ -5,8 +5,6 @@ publicationDate: 2016-06-19T00:00:00Z
 image: "./1-uNDYC3qXgg5UN9mAbkJubQ.png"
 
 ---
-### Why Build a Fintech Ecosystem?
-
 Shouldn’t we be focusing on building sh\*t people want, iterating our product, getting traction, scaling, exiting?
 
 Maybe.

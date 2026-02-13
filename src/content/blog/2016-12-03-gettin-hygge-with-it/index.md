@@ -5,8 +5,6 @@ publicationDate: 2016-12-03T00:00:00Z
 image: "./1-GeXbr_56KgIOkIbR53vfbA.jpeg"
 
 ---
-### Gettin Hygge with it\*
-
 I’m special. At least that’s what my mother always told me. And you’re special too. We’re all unique special snowflakes. As a startup, you’re a tiny percent of the population, even more special and unique.
 
 Except that you’re not.

@@ -5,8 +5,6 @@ publicationDate: 2017-06-10T00:00:00Z
 image: "./1-M4IosO5qLmA9KbyUPCJgRA-2x.jpeg"
 
 ---
-### Ireland’s Fintech Map – June 2017
-
 Hello Fintech fans! It’s time for another update to the all-Ireland Fintech map.
 
 Here’s a quick reminder of the criteria for being included:

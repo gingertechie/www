@@ -5,8 +5,6 @@ publicationDate: 2017-01-29T00:00:00Z
 image: "./1-8LM8VTu6BUM2LjdE737gkQ.jpeg"
 
 ---
-### Fika, Fintech and Just Feckin Doing It
-
 Consider, if you would, the humble tea break. It’s is the foundation upon which modern Irish business is built. Work gets divided into two piles – before tea and after tea. Allegiance to one brand or another is both steadfast and lifelong. [The Irish drink more tea per perso](http://qz.com/168690/where-the-worlds-biggest-tea-drinkers-are/)n than any other country except Turkey, putting even our British neighbours to shame. So you’d think we’d be #1 in an international ranking of tea break sophistication, right?
 
 Wrong.

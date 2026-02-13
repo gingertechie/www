@@ -5,8 +5,6 @@ publicationDate: 2016-12-13T00:00:00Z
 image: "./1-a2_bMaDKReJ30j-ECffolA.jpeg"
 
 ---
-### Ireland’s Fintech Map December 2016
-
 Season’s Greetings, beautiful Fintech nerds!
 
 Interestingly, there are now as many companies queued up for the map as are actually on the map. But because of the strict criteria for inclusion, not all companies end up on the map.

@@ -5,8 +5,6 @@ publicationDate: 2017-03-17T00:00:00Z
 image: "./1-dteS2iT80KWySWtZTr6opQ-2x.jpeg"
 
 ---
-### Ireland’s Fintech Map – Paddy’s Day Edition
-
 It’s that time o’ year again when the world goes mad for all things Irish. So in an absolutely shameless attempt to jump on the bandwagon, here’s your super St Patrick’s Day Fintech Map O’ Ireland!
 
 ![](./1-dteS2iT80KWySWtZTr6opQ-2x.jpeg)
