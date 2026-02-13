@@ -2,13 +2,18 @@
 title: "Fika, Fintech and Just Feckin Doing It"
 description: "Consider, if you would, the humble tea break. It’s is the foundation upon which modern Irish business is built. Work gets divided into two…"
 publicationDate: 2017-01-29T00:00:00Z
+image: "./1-8LM8VTu6BUM2LjdE737gkQ.jpeg"
+
 ---
+### Fika, Fintech and Just Feckin Doing It
 
 Consider, if you would, the humble tea break. It’s is the foundation upon which modern Irish business is built. Work gets divided into two piles – before tea and after tea. Allegiance to one brand or another is both steadfast and lifelong. [The Irish drink more tea per perso](http://qz.com/168690/where-the-worlds-biggest-tea-drinkers-are/)n than any other country except Turkey, putting even our British neighbours to shame. So you’d think we’d be #1 in an international ranking of tea break sophistication, right?
 
 Wrong.
 
 There’s another country who have taken the tea break to the next level. And they even had the audacity to gave it a name. *Fika*.
+
+![](./1-8LM8VTu6BUM2LjdE737gkQ.jpeg)
 
 Yes, it’s the flat-pack-designing, high-cheekbone-having, meatball-munching Swedes.
 
@@ -23,6 +28,8 @@ In Fintech we’re obsessed with categories and naming things. Are you in Fintec
 With all this splintering, it’s hard to keep track of what’s going on. The usual solution to this is some kind of association or hub, to act as a central point for news, events and collaboration. That’s the approach we’ve taken in Ireland. Although instead of having one central point, we have several, with a new “umbrella brand” IFSIreland recently launched to present a single face outside of Ireland.
 
 I wondered how other countries were managing this. Where better to start than Sweden?
+
+![](./1-_sIjAPhyOPT8iYrqs4Hdbw.jpeg)
 
 ### Stockholm and Fintech
 
@@ -39,6 +46,8 @@ I went to meet Stockholm Fintech to see if they felt the same.
 ### Stockholm Fintech (part 1)
 
 Yup.
+
+![](./1-6qTg0RSDNRa12pw-qEm7rQ.jpeg)
 
 Meeting with British expat Matthew Argent and the [StockholmFin.tech](http://www.stockholmfin.tech) team, I started to get a sense for the interconnectedness of the Fintech community. And the diversity – with only one native Swede in the room. I wondered, if Sweden was so great at being a Fintech location, why wasn’t an association or hub already in existence?
 
@@ -66,6 +75,8 @@ If I remember correctly, this is the first Fintech-themed StartupWeekend in Stoc
 
 Oh, and of course, everyone knows each other – StockholmFin.tech are an event sponsor. Collaboration FTW!
 
+![](./1-2UYMnsXOmG5E8XSjh78TrA.jpeg)
+
 ### Conclusion
 
 And so, after two manic days (which included some actual work, by the way! What, you think banks are just gonna fix themselves??) I had met some amazing innovators, entrepreneurs and organisers, and had seen first-hand the enthusiasm and optimism that you see across the city.
@@ -75,3 +86,4 @@ The Fintech scene in Stockholm is broad, deep, active, vibrant, diverse – and 
 If there’s anyone out there who challenges Sweden for the Fintech #2 spot, I urge you to get in the ground in Stockholm and see for yourself. Because I think if they set their sights on the #1 spot, they’re gonna be pretty damn hard to beat.
 
 Thanks to Tetiana Siianko, Howard Riminton, Hassan Mian and Matthew Argent for being so accommodating to a random stranger from Ireland!
+

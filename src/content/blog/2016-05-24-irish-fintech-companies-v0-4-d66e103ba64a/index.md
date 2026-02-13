@@ -2,6 +2,7 @@
 title: "Irish Fintech Companies v0.4"
 description: "It’s been a while since the last version of this map. One reason is that it’s very time-consuming to search, catalog and verify companies…"
 publicationDate: 2016-05-24T00:00:00Z
+image: "./1-JDgSSi5ipCtgq6mKhl68Aw.jpeg"
 ---
 
 It’s been a while since the last version of this map. One reason is that it’s very time-consuming to search, catalog and verify companies details. The good news is that you can be confident in this information\*. The other reason is that I’m doing some really fun work with [Ammeon](http://www.ammeon.com), a private cloud integrator, which hasn’t left much time for this!
@@ -22,7 +23,7 @@ The new additions to version 0.4 of the map are:
 
 So here’s version 0.4 of the Irish Fintech Companies map.
 
-![](./1*JDgSSi5ipCtgq6mKhl68Aw.jpeg)
+![](./1-JDgSSi5ipCtgq6mKhl68Aw.jpeg)
 
 You can find this and all other maps at [gingertechie.com/fintech](https://www.gingertechie.com/fintech)
 

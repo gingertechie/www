@@ -2,9 +2,14 @@
 title: "Ireland’s Fintech Map – Paddy’s Day Edition"
 description: "It’s that time o’ year again when the world goes mad for all things Irish. So in an absolutely shameless attempt to jump on the bandwagon…"
 publicationDate: 2017-03-17T00:00:00Z
+image: "./1-dteS2iT80KWySWtZTr6opQ-2x.jpeg"
+
 ---
+### Ireland’s Fintech Map – Paddy’s Day Edition
 
 It’s that time o’ year again when the world goes mad for all things Irish. So in an absolutely shameless attempt to jump on the bandwagon, here’s your super St Patrick’s Day Fintech Map O’ Ireland!
+
+![](./1-dteS2iT80KWySWtZTr6opQ-2x.jpeg)
 
 In the three months since the v0.7 edition of the map there have been quite a number of changes. So many changes – and some significant news about the underlying data – that I’ve bumped the version up to v1.0
 
@@ -46,4 +51,7 @@ Phew! Who knew that after a year I’d still be finding more Fintech companies i
 
 ### The All-Ireland Fintech Map
 
+![](./1-ssUORA9F3bJMjAzAB873Bg-2x.jpeg)
+
 Someone missing? Find me on [Twitter](http://twitter.com/gingertechie)!
+

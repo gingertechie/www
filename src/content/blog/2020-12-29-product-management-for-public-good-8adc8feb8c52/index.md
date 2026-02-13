@@ -2,7 +2,10 @@
 title: "Product Management for Public Good"
 description: "My Journey in Cycling Advocacy"
 publicationDate: 2020-12-29T00:00:00Z
+image: "./0-d0oSK0qFBUfNZDBv.jpg"
+
 ---
+### Product Management for Public Good
 
 \*record scratch\*
 
@@ -10,11 +13,15 @@ publicationDate: 2020-12-29T00:00:00Z
 
 Yup, that’s me. You’re probably wondering how I got into this situation…
 
+![A sign at the council chamber, anointing this chair as the designated seating area for Members Of The Public](./0-d0oSK0qFBUfNZDBv.jpg)
+
 I am a Member of the Public
 
 ---
 
 It all started in the first summer of COVID, and like many others I was spending every waking hour in my home - either working at my home office (the dining room) or relaxing (the living room) - when I came across this:
+
+![](./0-d0oSK0qFBUfNZDBv.jpg)
 
 A Call to Action!
 
@@ -29,6 +36,10 @@ Back home in Navan, I missed the daily joust, and my “commute” from bedroom 
 But something wasn’t quite right. Around Navan the familiar battle for space on the road was there, with the added challenge of tractors, school-run tailbacks and the odd stray cow. And as for the intermittent sanctuary of the cycle lanes? Not so much. How was one supposed to career bravely into traffic when there was no respite to emerge from?
 
 It just so happened I wasn’t the only person underwhelmed with cycling around Navan. So, after filling in the survey, I met up with these like minded folks and before you can say “any other business?” I found myself as esteemed Secretary of the [Navan Cycling Initiative](http://navancycling.ie).
+
+![](./1-Lmz4aY0fN9ejS1zyPZFgFQ.jpeg)
+
+![](./0-D2MZSZg1ig1KG2bG.jpg)
 
 Navan Cycling Initiative founders: Kevin, Ed, Dónal and yours truly
 
@@ -51,3 +62,4 @@ Hello, my name is Dave and I’m a Product Manager :D
 ---
 
 And so this is my journey, my Tour de Force (oh come on, give me one cycling pun!), into Cycling advocacy, Product Management and The Great Outdoors. I hope you’ll join me (unflattering high-vi optional) as I pedal past potholes, through weather fair and foul, to destinations unknown …
+

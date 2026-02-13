@@ -2,6 +2,7 @@
 title: "Ireland’s Fintech Map v0.5"
 description: "Here’s the latest update to Ireland’s Fintech Map, and it’s a biggie."
 publicationDate: 2016-07-10T00:00:00Z
+image: "./1-NWQniHv22h_9dLSkyscePQ.png"
 ---
 
 Firstly, I’ve added a permanent link to the map at [gingertechie.com/map](https://www.gingertechie.com/map) so you’ll always be able to find the latest greatest update.
@@ -33,5 +34,7 @@ If you’re not on the map, you may be one of the 17 companies who I’m waiting
 As always, I’m very happy to take corrections, feedback, additions and comments. Drop me a line, tweet me, or comment here!
 
 Oh, and here’s the map :)
+
+![](./1-NWQniHv22h_9dLSkyscePQ.png)
 
 Ireland’s Fintech Map v0.5

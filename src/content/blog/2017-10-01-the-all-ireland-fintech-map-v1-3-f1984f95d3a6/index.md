@@ -2,7 +2,12 @@
 title: "The All-Ireland Fintech Map v1.3"
 description: "Can you believe it’s 20 months since I released the first version of the map, way back in February 2016."
 publicationDate: 2017-10-01T00:00:00Z
+image: "./1-ILeLbk3Mlk3y-PdBTkGwbw-2x.jpeg"
+
 ---
+### The All-Ireland Fintech Map v1.3
+
+![](./1-ILeLbk3Mlk3y-PdBTkGwbw-2x.jpeg)
 
 The All-Ireland Fintech Map.
 
@@ -15,3 +20,4 @@ Just a handful of changes this time:
 * PaycheckPlus added – [paycheckplus.ie](https://www.paycheckplus.ie/)
 
 Keep the suggestions coming! Here’s the latest map [v1.3](https://gingertechie.com/map)
+

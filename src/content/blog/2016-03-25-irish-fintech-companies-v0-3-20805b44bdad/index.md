@@ -2,9 +2,10 @@
 title: "Irish Fintech Companies v0.3"
 description: "Here’s the updated list of Irish Fintech companies for your Easter viewing pleasure."
 publicationDate: 2016-03-25T00:00:00Z
+image: "./1-o4zXKeRHg6_t_tAxrOTLPg.png"
 ---
 
-![](./1*o4zXKeRHg6_t_tAxrOTLPg.png)
+![](./1-o4zXKeRHg6_t_tAxrOTLPg.png)
 
 New in this version:
 

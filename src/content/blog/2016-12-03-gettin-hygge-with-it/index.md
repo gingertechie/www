@@ -2,7 +2,10 @@
 title: "Gettin Hygge with it*"
 description: "I’m special. At least that’s what my mother always told me. And you’re special too. We’re all unique special snowflakes. As a startup…"
 publicationDate: 2016-12-03T00:00:00Z
+image: "./1-GeXbr_56KgIOkIbR53vfbA.jpeg"
+
 ---
+### Gettin Hygge with it\*
 
 I’m special. At least that’s what my mother always told me. And you’re special too. We’re all unique special snowflakes. As a startup, you’re a tiny percent of the population, even more special and unique.
 
@@ -32,6 +35,8 @@ Fast forward to late summer. It was as I watched the royal band marching past th
 
 ---
 
+![](./1-GeXbr_56KgIOkIbR53vfbA.jpeg)
+
 Well, it’s quite a nice area. As you would expect for the Danish bankers association. Note to Ireland’s Fintech groups: more marching bands (oh Belfast, not like *that).*
 
 Luckily, I had recently ironed my limited-edition FintechIreland t-shirt. So when [Kim Vindberg-Larsen](http://www.cfir.dk/en-GB/AboutCFIR/Organisation/Pages/Secretariat.aspx) greeted me, impeccably attired in a full suit and tie, I was able to style it out.
@@ -45,3 +50,4 @@ Part 2 coming soon. Well, soon-*ish*.
 [update] Here’s [part](https://blog.gingertechie.com/gettin-hygge-with-it-part-2-10d55f3e650a?source=linkShare-eeb2c56b2dba-1481096206) [2](https://blog.gingertechie.com/gettin-hygge-with-it-part-2-10d55f3e650a?source=linkShare-eeb2c56b2dba-1481096206)!
 
 \* Ok, ok, I know that’s not how you say it.
+

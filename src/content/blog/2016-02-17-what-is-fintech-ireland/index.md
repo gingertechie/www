@@ -2,6 +2,7 @@
 title: "What is Fintech Ireland?"
 description: "I’m going to tell you. Really, I am."
 publicationDate: 2016-02-17T00:00:00Z
+image: "./1-1Ekw82f_XAFsGsXFmaEbRw.jpeg"
 ---
 
 But first, I’m going to tell you what companies I consider to be part of Fintech Ireland. And to do that, let’s agree on what companies are NOT Fintech Ireland.
@@ -24,7 +25,7 @@ Still with me? Good. OK, I know this a pretty thin definition, and Fintech Irela
 * FPAI. IFS2020. BPFI. NPP. WTF?
 * Banks. Remember them? They haven’t gone away you know
 
-![](./1*1Ekw82f_XAFsGsXFmaEbRw.jpeg)
+![](./1-1Ekw82f_XAFsGsXFmaEbRw.jpeg)
 
 I said I would tell you what “Fintech Ireland” means. To do this means looking beyond a simple list of companies and exploring the ecosystem. So I’ll do that – but not in this post. For now, you’re going to have to make do with a list of Fintech Ireland companies.
 

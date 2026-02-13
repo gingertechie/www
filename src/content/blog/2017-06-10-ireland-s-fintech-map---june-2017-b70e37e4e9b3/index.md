@@ -2,7 +2,12 @@
 title: "Ireland’s Fintech Map – June 2017"
 description: "Hello Fintech fans! It’s time for another update to the all-Ireland Fintech map."
 publicationDate: 2017-06-10T00:00:00Z
+image: "./1-M4IosO5qLmA9KbyUPCJgRA-2x.jpeg"
+
 ---
+### Ireland’s Fintech Map – June 2017
+
+Hello Fintech fans! It’s time for another update to the all-Ireland Fintech map.
 
 Here’s a quick reminder of the criteria for being included:
 
@@ -14,6 +19,8 @@ Here’s a quick reminder of the criteria for being included:
 ---
 
 Some eagle-eyed readers have asked why banks aren’t included, as they meet the criteria. Good question. I guess that’s the difference between financial services and Fintech. And that difference, in my view, is attitude.
+
+![](./1-M4IosO5qLmA9KbyUPCJgRA-2x.jpeg)
 
 Don’t get me wrong, this isn’t about bashing banks. There are some really awesome changes happening behind the scenes in Irish banks, and other financial services companies too, for that matter. But if the sole purpose of a Fintech company is to improve the customer outcome through technology, I don’t think that the banks can be considered Fintech.
 
@@ -35,6 +42,9 @@ I’ve also updated the logo for [Flender](http://www.flender.ie) (thanks [Oli](
 
 ---
 
+![](./1-n12EOPd6e-ZSDnLpTfaFgQ-2x.jpeg)
+
 Thank you to everyone who sent me corrections and additions for this version of the Fintech map. And huge thanks to everyone who helped to put Ireland’s Fintech Ecosystem on the global map – from US to Singapore, from Sweden to Australia.
 
 Head over to GingerTechie.com/map for the June 2017 [Ireland Fintech Map](http://www.gingertechie.com/map).
+

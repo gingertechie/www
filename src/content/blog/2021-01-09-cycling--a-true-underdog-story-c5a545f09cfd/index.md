@@ -2,9 +2,14 @@
 title: "Cycling: A True Underdog Story"
 description: "This is a follow up to my previous article on cycling advocacy and product management. No sequel is as good as the original, and nor is…"
 publicationDate: 2021-01-09T00:00:00Z
+image: "./1-WxeUXdUec3vQEPRdMpLhKg.jpeg"
+
 ---
+### Cycling: A True Underdog Story
 
 This is a follow up to my [previous article](https://blog.gingertechie.com/product-management-for-public-good-8adc8feb8c52) on cycling advocacy and product management. No sequel is as good as the original, and this will be no exception (but the special effects will be **a***m***a***z***i***n***g)**
+
+![](./1-WxeUXdUec3vQEPRdMpLhKg.jpeg)
 
 Typical underdogs
 
@@ -36,6 +41,8 @@ I know what you’re thinking: isn’t cycling hugely well-funded?
 
 Surprisingly, no. You’d think that with all the talk about climate change, that the Government would be pouring money into cycling as one of the best ways to reduce harmful emissions. But that’s not all, because cycling also improves physical and mental health, provides new income from tourism as well as reducing traffic.
 
+![](./1-Gn5AFyqY4GT_T0gjVDjzEQ.png)
+
 Bike Life Report 2020, NTA
 
 The Bike Life report published in 2020, covering the UK and Ireland, estimates a **net benefit to society of €1 for every kilometre cycled instead of driven**.
@@ -48,9 +55,13 @@ Startups want to reach everyone in their target market, so that everyone uses th
 
 Traditionally, customers were segmented into groups who would adopt the new product, looking something like this:
 
+![](./1-GLTcwOqWRwF8ipI4i37fEw.png)
+
 Via [Michael Batko](https://medium.com/u/5cb88051968f)’s excellent summary of”Crossing the Chasm”
 
 How does this model compare with adoption of cycling?
+
+![](./1-btjsM5cGt4nB5e-b4iraoA.jpeg)
 
 The Four Types of Cyclist, [City of Portland](https://www.portlandoregon.gov/transportation/article/158497)
 
@@ -66,6 +77,8 @@ If we can think about the residents of an areas as being our “market”, and w
 ### Growth
 
 About a million years ago, in 2007, a venture capitalist named Dave McClure created a framework for market growth with a few key stages: Acquisition, Activation, Retention, Referral and Revenue, or AARRR.
+
+![](./1-ICDDYvh0_JZqrU9Grd80ag.png)
 
 Pirate Metrics, Steve the Pirate
 
@@ -96,11 +109,15 @@ Since I’m only just getting to know the cycling community, I can’t speak to 
 
 Startups innovate. They produce products that are easier to use, faster, cheaper, or work in ways that weren’t previously imagined. On the other hand, cycling advocacy promotes a *mode of travel*— more like a product category than a product. How the hell do you product-manage a *product category*??
 
+![](./1-IvSk5Eut0M1XvZcJbo0_eA.jpeg)
+
 The iconic “Got Milk” Campaign, California Milk Processor Board
 
 Ohh, right. Groovy baby!
 
 To be honest, I haven’t quite gotten my head around this yet. In order to try and understand this “product” I drew up a customer journey map, just based on my own limited experience going to the shop for booze.
+
+![](./1-rvyhWXSrBcBki87nlClpfg.jpeg)
 
 This seems like a terrible, terrible product experience. Which is great, because at least there’s lots of potential for improvement!
 
@@ -113,3 +130,4 @@ With this rigorous and scientific (cough, cough, wear a mask) analysis, I have s
 If you buy this, it follows that it should be possible to take some of the tools and techniques used by startups, and apply them to cycling advocacy.
 
 In my next article, I’ll explain how cycling advocacy is actually like working in a large corporation. No, really.
+

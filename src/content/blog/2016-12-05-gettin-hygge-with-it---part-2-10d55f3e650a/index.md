@@ -2,13 +2,18 @@
 title: "Gettin Hygge with It — Part 2"
 description: "This is the second part of my story about why I’m helping to connect the Fintech communities in Ireland and Denmark. If you missed part 1…"
 publicationDate: 2016-12-05T00:00:00Z
+image: "./1-HXLGesn0u-tIjTcP_flqNA.jpeg"
+
 ---
+### Gettin Hygge with It — Part 2
 
 This is the second part of my story about why I’m helping to connect the Fintech communities in Ireland and Denmark. If you missed part 1, you can [read it here](https://blog.gingertechie.com/gettin-hygge-with-it-82ec00d2b027#.mfcgr1284).
 
 In the tech world, we like t-shirts. They’re practical, unfussy and there’s an endless supply of them from meet ups, conferences and events. I’ve heard Fintech described as a “meeting of suits and t-shirts” and that sounds like a pretty good description to me.
 
 But enough about dress code, and onto the initial meeting between Fintech Ireland and Fintech Copenhagen. It was a somewhat informal affair (if you exclude the royal marching band — see [part 1](https://blog.gingertechie.com/gettin-hygge-with-it-82ec00d2b027#.mfcgr1284)). And the flag ceremony.
+
+![](./1-HXLGesn0u-tIjTcP_flqNA.jpeg)
 
 OMFG THERE ARE EVEN LITTLE ROPES FOR RAISING THE FLAGS!
 
@@ -19,6 +24,8 @@ I had recently organised a rapid networking event for the Fintech community in D
 ### Building a Brygge
 
 And so, on that sunny afternoon in Copenhagen, Kim and I hatched a plan to create an event that connected our local fintech people with each other.
+
+![](./1-qWfmI9G5up6HZMGMzxo4Cw.jpeg)
 
 “Fintech? Isn’t that about Finland?”
 
@@ -46,6 +53,8 @@ Pitch competitions: [Tired or Expired](https://www.wired.com/2012/12/wired-tired
 
 For our #FintechBattle pitch competition we’ve got six companies under two years old. A five minute pitch each. But this time the judges are different. The judges are YOU.
 
+![](./1-rcNkvAm8sKqufmQynkPVaQ.jpeg)
+
 No, not you
 
 Attendees will be voting on Twitter using an X-Factor style system. Tweet:
@@ -71,3 +80,4 @@ Is this a first in a series of events? Maybe.
 Are there more events focused on a particular area of Fintech? Probably.
 
 Will I be arriving at your office tragically underdressed, hoping to build connections with your Fintech community? Absolutely!
+
