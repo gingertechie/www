@@ -6,6 +6,22 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a personal blog built with the Barebones Astro template. It's a static site generator using Astro, Tailwind CSS v4, and Markdown for content. The site includes blog posts, projects, RSS feeds, and full SEO support.
 
+## User Guide
+
+### How to add a blog post
+
+1. Create a folder in src/content/blog
+2. Create a file index.md in the above folder
+3. Add the following header in the index.md file
+
+---
+title: "Blog Post Title"
+description: "Your description goes here"
+publicationDate: 2026-03-25T12:00:00Z
+---
+
+Run the dev server to review the blog post
+
 ## Development Commands
 
 ```bash
